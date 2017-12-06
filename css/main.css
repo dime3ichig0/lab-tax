@@ -1,0 +1,223 @@
+.navbar-toggle, .icon-bar {
+    border:1px solid #888888;
+}
+
+.navbar-nav>li>a{
+  color: #000;
+}
+
+
+#bg-slider{
+  background-color: #f7b617;
+  height: 300px;
+  margin-top: 10%;
+  margin-bottom: 25%;
+}
+
+.col-md-12 h1{
+	color: #ffffff;
+}
+
+.col-md-6 h3{
+	color: #ffffff;
+}
+
+.col-md-12 p{
+	color: #ffffff;
+}
+
+.o-bien {
+    left: 117px;
+}
+
+
+
+.taxi {
+  background-image: url(../assets/images/taxi.jpg);
+  height: 100vh;
+  background-position: bottom;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.container-2{
+	background-color: #F7B617;
+}
+
+.container-2 h1{
+	color: #ffffff; 
+	padding-top: 40px;
+}
+
+.container-2 p{
+	color: #ffffff;
+}
+
+.container-2 img{
+	padding-top: 40px;  /*Agregando Padding a la img*/
+	padding-bottom: 40px;
+}
+
+
+
+.cuadrado-1{
+	background-color: #F7B617;
+}
+
+
+.amarillo{
+	background-color: #F7B617;
+	margin:140px;
+	padding:40px;
+}
+
+.amarillo-2{
+	background-color: #F7B617;
+}
+
+.col-md-7 p{
+	color: #ffffff;
+}
+
+.col-md-7 h3{
+	color: #ffffff;
+}
+
+.col-md-2 img{
+
+}
+
+.taxi-2{ /*Imagen del taxi*/
+	background-image: url(../assets/images/conduce.jpg);
+	height: 80vh;
+  background-position: bottom;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+
+.rgba{
+	background-color: rgba(0,0,0,7); 
+	margin:140px;
+	padding:40px;
+	padding-left: 50px;
+}
+
+.texto-labcar{
+margin-right: 80px;
+}
+
+.cuadrado-color{
+	background-color: #F7B617;
+	padding: 50px;
+}
+
+
+
+.cuadrado-color-2{
+	background-color: #2B2B2B;
+
+}
+
+hr{
+	width: 1150px;
+}
+
+.logotipo-2{
+	left:100px;
+  margin-top: 20px;
+}
+
+.lista{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.lista-2 {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.final-text{
+	color: #ffffff;
+	left: 126px;
+}
+
+.icon-facebook:before {
+  content: "\e904";
+  color: #fff;
+}
+
+.icon-twitter:before {
+  content: "\e903";
+  color: #fff;
+}
+
+.icon-linkedin:before {
+  content: "\e902";
+  color: #fff;
+}
+
+.icon-apple:before {
+  content: "\e901";
+  color: #fff;
+}
+
+.icon-play:before {
+  content: "\e900";
+  color: #fff;
+}
+
+.color-tarifas {
+	background-color:#F7B617;
+	width: 700px;
+}
+
+#mapa{
+  background-color: #f7b617;
+  color: #fff;
+  height: 36em;
+}
+
+.cont-tarifas{
+  padding: 6em;
+
+}
+
+#buscadores div{
+  margin-top: 2em;
+}
+
+#txt-punto{
+  background-color: transparent;
+  border: 1px solid;
+  border-radius: 8px;
+  height: 3em;
+  width: 20em;
+  padding-left: 1em;
+  margin-left: 2em;
+}
+
+::placeholder { 
+  color: #fff; 
+}
+
+.mapa {
+    border: 1px solid #fff;
+    height: 19em;
+    width: 21em;
+    margin-top: 5em;
+}
+
+#map{
+  width: 31em;
+  height: 25em;
+  margin: 1em;
+}
+
+.btn-trazo{
+    margin-top: 3em;
+    margin-left: 6em;
+    font-weight: bold;
+}
+
